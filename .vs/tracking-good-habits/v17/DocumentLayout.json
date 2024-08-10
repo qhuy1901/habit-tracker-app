@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\tracking-good-habits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F784D7-7A00-450E-A4B2-5D0173EF47CF}|tracking-good-habits\\tracking-good-habits.csproj|c:\\users\\acer\\source\\repos\\tracking-good-habits\\tracking-good-habits\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6F784D7-7A00-450E-A4B2-5D0173EF47CF}|tracking-good-habits\\tracking-good-habits.csproj|solutionrelative:tracking-good-habits\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F784D7-7A00-450E-A4B2-5D0173EF47CF}|tracking-good-habits\\tracking-good-habits.csproj|c:\\users\\acer\\source\\repos\\tracking-good-habits\\tracking-good-habits\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F784D7-7A00-450E-A4B2-5D0173EF47CF}|tracking-good-habits\\tracking-good-habits.csproj|solutionrelative:tracking-good-habits\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\tracking-good-habits\\tracking-good-habits\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "tracking-good-habits\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\tracking-good-habits\\tracking-good-habits\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "tracking-good-habits\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T09:06:06.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\tracking-good-habits\\tracking-good-habits\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "tracking-good-habits\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\tracking-good-habits\\tracking-good-habits\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "tracking-good-habits\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:06:02.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
